@@ -11,7 +11,7 @@ ssh-keygen -t rsa -C "your@email.ru"
 
 4. Скопируйте созданные в директории пользователя файлы “id_rsa” и “id_rsa.pub” в папку c:\Documents and Settings\Username\.ssh (XP) или c:\Users\Username\.ssh (Vista). При необходимости создайте эту папку с помощью команды
 
-mkgir ".ssh"
+mkdir ".ssh"
 
 в консоли Windows
 
